@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/erickhagstrom/first_pipeline/_apis/build/status/erickhagstrom.pipelines-java?branchName=master)](https://dev.azure.com/erickhagstrom/first_pipeline/_build/latest?definitionId=1&branchName=master)
 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
